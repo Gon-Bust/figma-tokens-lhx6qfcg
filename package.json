@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/sick-card-s4qe9.figma-tokens-lhx6qfcg",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve fe1smFprJBb7kKbs7s1y --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
